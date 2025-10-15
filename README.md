@@ -47,7 +47,7 @@ It uses multi-layered detection, semantic pattern analysis, and adaptive machine
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/PromptShield-AI-Defense.git
+git clone https://github.com/Mjdoomsdaylab2/PromptShield-AI-Defense.git
 
 # Go into the project directory
 cd PromptShield-AI-Defense
