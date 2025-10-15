@@ -1,0 +1,26 @@
+Custom License for PromptShield-AI-Defense
+
+Copyright (c) 2025 MJ Doomsday Lab
+
+This software is developed and maintained by MJ Doomsday Lab.
+All rights reserved.
+
+Permission is granted to use, copy, modify, or distribute this project
+for educational, research, and ethical development purposes only.
+
+You are NOT allowed to:
+- Use this software for any illegal, unethical, or harmful activities.
+- Modify or distribute this software with intent to harm others.
+- Claim authorship or redistribute under a misleading name.
+
+This project is designed solely for:
+- Ethical AI safety research
+- Text moderation and analysis
+- Educational demonstrations of prompt validation
+
+The author and contributors are not responsible for any misuse or damage
+resulting from the use of this software.
+
+By using this software, you agree to these terms.
+
+Contact: mjdoomsdaylab@gmail.com

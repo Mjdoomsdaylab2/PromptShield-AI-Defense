@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "patterns": [
+    {
+      "regex": "(?i)ignore.*previous.*instructions",
+      "weight": 0.9
+    },
+    {
+      "regex": "(?i)reveal.*system.*prompt",
+      "weight": 0.85
+    },
+    {
+      "regex": "(?i)bypass.*(moderation|security)",
+      "weight": 0.8
+    }
+  ]
+}
