@@ -1,4 +1,4 @@
-from mjpromptsdk import PromptShieldSDK
+from PromptShield_sdk import PromptShieldSDK
 import json
 
 def main():
