@@ -1,5 +1,5 @@
 """
-mjpromptsdk.py
+PromptSheild_sdk.py
 Lightweight SDK wrapper for MJ DOOMSDAY LAB Prompt Shield (PromptShield.py)
 """
 
@@ -10,7 +10,7 @@ try:
     from PromptShield import PromptShield
 except Exception:
     try:
-        from promptshield import PromptShield
+        from PrompSheild import PromptShield
     except Exception as e:
         raise ImportError("Could not import PromptShield. Ensure PromptShield.py is present.") from e
 
