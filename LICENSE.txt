@@ -1,5 +1,3 @@
-Custom License for PromptShield-AI-Defense
-
 Copyright (c) 2025 MJ Doomsday Lab
 
 This software is developed and maintained by MJ Doomsday Lab.
