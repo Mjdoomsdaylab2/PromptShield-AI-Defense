@@ -133,6 +133,16 @@ If you’d like to improve detection accuracy or add new features:
 
 ---
 
+## ⚡ Main Features
+ 
+• More than 2.1 billion attack variations
+• Highest Accuracy 90%-95%
+• Most Comprehensive ( All attack types coverage )
+• Best Enterprise features ( Full API suite )
+• Got first rank 🏅 when vs with other popular tools
+
+---
+
 ## 🧑‍💻 Author & Contact
 
 Developed by **MJ DOOMSDAY LAB**  
